@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on The technical field
-- 📫 How to reach me ...
+- 📫 How to reach me (by email address)
 
 <!---
 AhmedkhaledMO/AhmedkhaledMO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
